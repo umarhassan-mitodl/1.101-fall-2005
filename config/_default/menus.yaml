@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 49d31bae-a379-a0dd-1045-7898748538ee
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: a2cf9418-8a9e-92a9-61ea-a044723f68f0
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 533362f3-d3ab-5f81-bbef-5ac88877a430
+  name: Water Resources
+  pageRef: /pages/water-resources
+  weight: 30
+- identifier: 6f7763fc-ecbc-23c9-2169-9d9ce25d689e
+  name: Structures
+  pageRef: /pages/structures
+  weight: 40
+- identifier: d51c2ce7-9538-4a50-20ef-88704b6e9faf
+  name: Thermal Design
+  pageRef: /pages/thermal-design
+  weight: 50
