@@ -4,6 +4,8 @@ description: This resource contains more information regarding design review.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/d4fb85d98dd235afbe26f311312cdc1c_review2.pdf
 file_size: 20868
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

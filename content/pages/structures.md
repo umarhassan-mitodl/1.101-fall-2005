@@ -4,6 +4,8 @@ description: The Structures module features a design task in which students are 
   to design, fabricate and test a simply-supported truss which will support a prescribed
   load without failure. This section also includes in-class exercises and laboratory
   work.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Structures

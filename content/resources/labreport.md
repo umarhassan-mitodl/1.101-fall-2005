@@ -4,6 +4,8 @@ description: Project report guidelines.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/01a9d7b3a784b655c3bdd393c0062b50_labreport.pdf
 file_size: 12173
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

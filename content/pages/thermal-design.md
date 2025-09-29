@@ -2,6 +2,8 @@
 content_type: page
 description: This section contains objectives, one in-lab practical exercises, engineering
   report, and a table containing weeks, lectures and lab information.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Thermal Design

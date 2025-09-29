@@ -29,6 +29,7 @@
     "website": "1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005"
   },
   "course_title": "Introduction to Civil and Environmental Engineering Design I",
+  "hide_download": true,
   "course_description": "This sophomore-level course is a project-oriented introduction to the principles and practice of engineering design. Design projects and exercises are chosen that relate to the built and natural environments. Emphasis is placed on achieving function and sustainability through choice of materials and processes, compatibility with natural cycles, and the use of active or adaptive systems. The course also encourages development of hands-on skills, teamwork, and communication; exercises and projects engage students in the building, implementation, and testing of their designs.\n",
   "department_numbers": [
     "1"
@@ -39,6 +40,7 @@
     "content": "b36d50fd-eaff-0c7c-7712-12e1d506f919",
     "website": "1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "3498a7f5-8830-4158-9ecb-5087c3d421be",
   "site_short_id": "1.101-fall-2005",

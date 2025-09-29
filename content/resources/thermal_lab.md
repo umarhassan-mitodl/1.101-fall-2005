@@ -4,6 +4,8 @@ description: This resource contains the description of laboratory exercise.
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/37bedfd6f4ea1f9a9c53356954da7622_thermal_lab.pdf
 file_size: 16892
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

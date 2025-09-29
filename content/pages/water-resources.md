@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Description of the water resources project.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Water Resources

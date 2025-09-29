@@ -5,6 +5,8 @@ description: This resource contains a figure showing a simply supported beam and
 file: /courses/1-101-introduction-to-civil-and-environmental-engineering-design-i-fall-2005/7393b0a492c80842ca4bf055abe1e005_classex2.pdf
 file_size: 35120
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
